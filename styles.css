@@ -1,0 +1,17 @@
+h1{
+    color: brown;
+    justify-content: center;
+}
+h2{
+    background-color: coral;
+}
+ol{
+    background-color: darksalmon;
+}
+ul{
+    background-color:darksalmon;
+}
+.diaria{
+    font-family: cursive;
+    font-size: 30px;
+}

@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Página-1" id="xIVxFqe_6Ui35Br1WflL">
+    <mxGraphModel dx="880" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="270" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-1" target="KaNgYyr-kf8rr1WJDcxA-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="targetPoint" />
+            <mxPoint x="310" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-4" target="KaNgYyr-kf8rr1WJDcxA-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-4" value="Encendemos la estufa a fuego medio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-7" target="KaNgYyr-kf8rr1WJDcxA-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-7" value="Ponemos un sartén antiherente" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-9" target="KaNgYyr-kf8rr1WJDcxA-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-9" value="Derretimos mantequilla en el sartén" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-15" target="KaNgYyr-kf8rr1WJDcxA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-15" value="Abrimos el huevo, lo ponemos en el sartén y le echamos sal" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-17" target="KaNgYyr-kf8rr1WJDcxA-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-17" value="Esperamos 3 minutos hasta que se frite" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-19" target="KaNgYyr-kf8rr1WJDcxA-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cSLkK8NRmNg2b04Iqq-2" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNgYyr-kf8rr1WJDcxA-25">
+          <mxGeometry x="0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-19" value="pasaron 3 minutos" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-19" target="KaNgYyr-kf8rr1WJDcxA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-23" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KaNgYyr-kf8rr1WJDcxA-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.0469" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-24" target="KaNgYyr-kf8rr1WJDcxA-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-24" value="Lo retiramos del sartén" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-26" target="KaNgYyr-kf8rr1WJDcxA-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-26" value="Apagamos la estufa" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-30" target="KaNgYyr-kf8rr1WJDcxA-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-30" value="Servimos el huevo en el plato" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNgYyr-kf8rr1WJDcxA-34" target="KaNgYyr-kf8rr1WJDcxA-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-34" value="Disfrutamos de un rico huevo frito" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNgYyr-kf8rr1WJDcxA-38" value="FIN" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1089" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

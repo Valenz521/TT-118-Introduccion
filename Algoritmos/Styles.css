@@ -1,0 +1,21 @@
+h1{display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.navegador{display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    font-family:cursive;
+}
+.cocina{
+    display: flex;
+    position:relative;
+    left: 22%;
+    margin: 35px;
+    z-index: -1;
+}
+p{display: flex;
+    justify-content: center;
+    font-size: 50px;
+    
+}
